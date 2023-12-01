@@ -1,5 +1,9 @@
 <template>
-  <div><h1>Hello</h1></div>
+  <div class="container">
+    <header>
+      <h1>Quizzes</h1>
+    </header>
+  </div>
 </template>
 
 <script setup>
